@@ -22,7 +22,7 @@ setup(
     py_modules=["imPixelate"],
     install_requires=[
         "numpy", 
-        "imhist",
+        "numba",
         ],
     keywords=['python', 'histogram', 'Pixelate', 'Pixelate Image'],
     classifiers=[
