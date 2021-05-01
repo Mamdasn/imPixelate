@@ -6,7 +6,6 @@ This snippet of code attempts to pixelate images.
 import cv2, os
 import numpy as np
 from imPixelate import pix
- 
 
 img_fullname = "assets/lotus.jpg"
 img_name, img_ext = os.path.splitext(img_fullname)
