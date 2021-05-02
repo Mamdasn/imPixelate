@@ -1,7 +1,15 @@
 # ImPixelate
 This snippet of code attempts to pixelate images.
 
-# Usage
+## Installation
+
+Run the following to install:
+
+```python
+pip install imPixelate
+```
+
+## Usage
 ```python
 import cv2, os
 import numpy as np
@@ -19,7 +27,7 @@ for i in range(d):
 cv2.imwrite(f'{img_name}-pixelate{img_ext}', img_out)
 ```
 
-# Output
+## Output
 This is a sample image:  
 ![lotus.jpg](https://raw.githubusercontent.com/Mamdasn/imPixelate/main/assets/lotus.jpg "lotus.jpg")  
 This is the sample image pixelated:  

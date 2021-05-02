@@ -2,9 +2,9 @@ import numpy as np
 import numba
 
 @numba.njit()
-def pix(img, r = None):
+def pix(img, r=0):
     [h, w] = img.shape
-    if not r:
+    if r==0:
         r = min(h, w)//150
     image = img.copy()
     for row_i in range(0, h+r, 2*r):
