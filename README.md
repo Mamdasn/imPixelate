@@ -2,6 +2,8 @@
 [![Package Status](https://img.shields.io/pypi/status/imPixelate.svg)](https://pypi.org/project/imPixelate/)
 [![Downloads](https://pepy.tech/badge/imPixelate)](https://pepy.tech/project/imPixelate)
 [![License](https://img.shields.io/pypi/l/imPixelate.svg)](https://github.com/Mamdasn/imPixelate/blob/main/LICENSE)
+![Repository Size](https://img.shields.io/github/languages/code-size/mamdasn/imPixelate)
+
 
 # ImPixelate
 This snippet of code attempts to pixelate images.
