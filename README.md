@@ -1,3 +1,8 @@
+[![PyPI Latest Release](https://img.shields.io/pypi/v/imPixelate.svg)](https://pypi.org/project/imPixelate/)
+[![Package Status](https://img.shields.io/pypi/status/imPixelate.svg)](https://pypi.org/project/imPixelate/)
+[![Downloads](https://pepy.tech/badge/imPixelate)](https://pepy.tech/project/imPixelate)
+[![License](https://img.shields.io/pypi/l/imPixelate.svg)](https://github.com/Mamdasn/imPixelate/blob/main/LICENSE)
+
 # ImPixelate
 This snippet of code attempts to pixelate images.
 
